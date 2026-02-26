@@ -1,0 +1,24 @@
+# Visual Studio
+.vs/  
+*.user  
+*.suo  
+*.userprefs  
+*.sln.docstates  
+
+# Build results
+[Dd]ebug/  
+[Rr]elease/  
+[Bb]in/  
+[Oo]bj/  
+
+# Visual Studio Code
+.vscode/  
+
+# Rider
+.idea/  
+
+# Logs
+*.log  
+
+# User-specific files
+*.sln.ide  
